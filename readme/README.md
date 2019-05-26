@@ -4,6 +4,10 @@
 
 {{long description}}
 
+## Install
+
+Basic installation instructions & commands go here if they exist.
+
 ## Usage
 
 ```shell
