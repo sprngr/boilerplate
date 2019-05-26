@@ -8,11 +8,10 @@ This mono repo contains useful templates to help launch new projects. At its cor
 
 The simplest usage of this project is to curl and untar contents directly to your existing or new project directory.
 
-Set the value
+Replace the value at the end with the name of the directory you wish to copy.
 
 ```sh
-$ TEMPLATE = 't
-$ curl -fsSL https://github.com/sprngr/boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 boilerplate-master/$TEMPLATE
+$ curl -fsSL https://github.com/sprngr/boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 boilerplate-master/TEMPLATE_DIRECTORY
 ```
 
 Alternatively, clone yourself a copy of the repo to copy out contents as needed:
@@ -42,6 +41,6 @@ See the [standard-readme spec](https://github.com/RichardLitt/standard-readme/bl
 * [Common Readme](https://github.com/noffle/common-readme)
 * [Standard Readme](https://github.com/RichardLitt/standard-readme)
 
-## License(s)
+## License
 
 MIT © Michael Springer
