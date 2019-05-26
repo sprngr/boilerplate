@@ -20,7 +20,7 @@ Alternatively, clone yourself a copy of the repo to copy out contents as needed:
 git clone https://github.com/sprngr/boilerplate.git
 ```
 
-You can also [download a zip](ttps://github.com/sprngr/boilerplate/archive/master.zip) and avoid the command line all together.
+You can also [download a zip](https://github.com/sprngr/boilerplate/archive/master.zip) and avoid the command line all together.
 
 ## Contributing
 
